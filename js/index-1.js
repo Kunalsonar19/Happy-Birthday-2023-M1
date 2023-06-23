@@ -4,8 +4,8 @@ $(document).ready(function () {
 });
 
 const audio = new Audio("songs/home-mix.mp3");
-const audio1 = new Audio("songs/audio-1.mp3");
-const audio2 = new Audio("songs/audio-2.mp3");
+const audio1 = new Audio("songs/khairiyat.mp3");
+const audio2 = new Audio("songs/ishq-risk.mp3");
 
 $("#switch").click(function () {
   if (this.checked) {
